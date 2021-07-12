@@ -37,7 +37,7 @@ const questions = [{
         "ISC",
         "MIT",
         "Mozilla",
-        "Open"
+        "None"
     ]
 },
 {
@@ -48,7 +48,7 @@ const questions = [{
 {
     type: "input",
     name: "tests",
-    message: "Is there a test included?"
+    message: "What test are performed on this project?"
 },
 {
     type: "input",
@@ -58,12 +58,12 @@ const questions = [{
 {
     type: "input",
     name: "username",
-    message: "Please enter your GitHub username: "
+    message: "What is your github username? "
 },
 {
     type: "input",
     name: "email",
-    message: "Please enter your email: "
+    message: "What is your email? "
 }
 
 
