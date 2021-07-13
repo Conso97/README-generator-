@@ -1,7 +1,7 @@
-# undefined
-  ![MIT license](https://img.shields.io/badge/license-MIT-Red.svg)
+# README-generator 
+  ![None license](https://img.shields.io/badge/license-None-Red.svg)
   ## Description
-  tyring to figure out this thing called life
+  A high quality README generator that quickly and easily creates a README file by using a command-line application to generate one
   ## Table of Contenets
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,17 +9,15 @@
   * [Tests](#tests)
   * [Questions](questions)
   ## Installation
-    undefined
+    Clone the repository,  Run node index.js,
     ## Usage
-      A quest for the meaning of life
-   # License
-  The license for this project is MIT
+      generating a read me 
+  undefined 
    
-  * [MIT](license) 
   ## Contributing
-  undefined
+  consolata 
   ## Tests
-    undefined
+    node
     ## Questions
     If you have any additional questions in regards to thsi fiel please contact me at conso4u@gmail.com.
     If you are interested in more of my work please go to my github page, my username is undefined.
