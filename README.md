@@ -12,7 +12,7 @@
   Start by cloning the repository, then install node, use npm to get dependencies installed and run node index.js.
   ## Usage
   This project is used to dynamically generate a professional README.md file from a user’s input using the inquirer package. Run node index.js from the command line in the directory containing this project to begin the question prompts. The README.md file will be generated in the current directory once all the questions have been answered. How to Use: https://drive.google.com/file/d/1sWCJD6IxbnGR5R4lwWClfbFVMs_KICck/view 
-  None 
+  
    
   ## Contributing
   There are no contributors on this project, however, if developers want to add to the success of the project in the future, they are more than welcome to do so.
