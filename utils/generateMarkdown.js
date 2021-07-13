@@ -33,10 +33,10 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Questions](questions)
+  * [Questions](#questions)
   ## Installation
     ${data.installation}
-    ## Usage
+  ## Usage
       ${data.usage}
   ${renderLicenseSection(data.license)} 
   ${renderLicenseLink(data.license)} 
@@ -44,7 +44,8 @@ function generateMarkdown(data) {
   ${data.contributing}
   ## Tests
     ${data.tests}
-    ## Questions
+  ## Questions
+    ${data.questions}
     If you have any additional questions in regards to this file please contact me at ${data.email}.
     If you are interested in more of my work please go to my github page, my username is ${data.github_username}.
     
