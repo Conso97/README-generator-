@@ -35,19 +35,20 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-    ${data.installation}
+  ${data.installation}
   ## Usage
-      ${data.usage}
+  ${data.usage}
   ${renderLicenseSection(data.license)} 
   ${renderLicenseLink(data.license)} 
   ## Contributing
   ${data.contributing}
   ## Tests
-    ${data.tests}
+  ${data.tests}
   ## Questions
-    ${data.questions}
-    If you have any additional questions in regards to this file please contact me at ${data.email}.
-    If you are interested in more of my work please go to my github page, my username is ${data.github_username}.
+  ${data.questions}
+    
+  If you have any additional questions in regards to this file please contact me at ${data.email}.
+  If you are interested in more of my work please go to my github page, my username is ${data.username}.
     
   `;}
 
